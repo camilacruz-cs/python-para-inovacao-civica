@@ -10,7 +10,6 @@ Este curso é uma introdução à programação com a linguagem Python aplicada 
 - ✅ Uso de bibliotecas como Pandas, Matplotlib e NumPy  
 - ✅ Web scraping e APIs para coleta de dados públicos  
 - ✅ Análise de dados sociais e políticas públicas  
-- ✅ Automação de processos administrativos  
 
 ## 📌 Estrutura do Curso  
 O curso está organizado em semanas, cobrindo desde os fundamentos da programação até aplicações práticas em inovação cívica:
